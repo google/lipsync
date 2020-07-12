@@ -25,3 +25,7 @@ Use serve (https://github.com/vercel/serve#readme) to serve static file in direc
 ``` shell
 serve
 ```
+
+## Live Demo
+
+You can checkout a full live demo of this in action here: https://lipsync.withyoutube.com
